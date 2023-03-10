@@ -151,6 +151,25 @@
       "index": {
         "from": 1941997
       }
+    },
+    "scroll": {
+      "name": "scroll",
+      "domain": 534353,
+      "addresses": {
+        "mailbox": "0xafD7c6e6C64cf8e14cb61826Ead8c3EAF93a0E3A",
+        "interchainGasPaymaster": "0xDB1C76C8Cc78Cf845C7f9D0237b385BEbED47E2e",
+        "validatorAnnounce": "0x52DAdE788e3274d30f093F41cBC92469f54D7080"
+      },
+      "signer": null,
+      "protocol": "ethereum",
+      "finalityBlocks": 1,
+      "connection": {
+        "type": "http",
+        "url": ""
+      },
+      "index": {
+        "from": 171381
+      }
     }
   },
   "db": "db_path",
